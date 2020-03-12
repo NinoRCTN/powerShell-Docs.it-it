@@ -70,6 +70,7 @@ Per aggiornare la versione esistente di PowerShell in Windows, usare la tabella 
 
 Windows | PS 3.0 | PS 4.0 | PS 5.0 | PS 5.1 |
 --|--|--|--|--|
+Windows Server 2019 | - | - | - | installato
 Windows 10 (vedere la nota 1)<br/>Windows Server 2016 | - | - | - | installato
 Windows 8.1<br/>Windows Server 2012 R2 | - | installato | [WMF 5.0](https://www.microsoft.com/en-us/download/details.aspx?id=50395) | [WMF 5.1](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
 Windows 8<br/>Windows Server 2012 | installato | [WMF 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=40855) | [WMF 5.0](https://www.microsoft.com/en-us/download/details.aspx?id=50395) | [WMF 5.1](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
